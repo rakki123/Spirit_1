@@ -1,0 +1,1 @@
+midJune/NN#Eli/NNP#Stokols/NNP#Burgess/NNP#Everett/NNP#Politico/NN#reported/VBN#Trump/NR#campaign/NN#New/NNP#Jersey/NNP#Governor/NNP#Chris Christie/NR#Speaker/NNP#House/NNP#Newt/NNP#Gingrich/NNP#Georgia/NNP#Senator/NNP#Jeff Sessions/NR#Alabama/NNP#Oklahoma/NNP#Mary Fallin/NR

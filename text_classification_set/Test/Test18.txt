@@ -1,0 +1,1 @@
+US/NNP#President/NNP#Barack Obama/NR#telephoned/VBD#Prime/NNP#Minister/NNP#Narendra Modi/NR#Wednesday/NNP#reviewed/VBN#relations/NNS#demits/NNS#office/NN#statement/NN#ministry/NN

@@ -1,0 +1,1 @@
+conversation/NN#Donald Trump/NR#sworn/VBN#US/NNP#President/NNP#Prime/NNP#Minister/NNP#Narendra Modi/NR#conveyed/VBN#Indias/NNS#concerns/NNS#proposed/VBN#visa/NN#program/NN#official/NN#sources/NNS#told/VBD#Express/NNP

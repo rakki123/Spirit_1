@@ -1,0 +1,1 @@
+US/NNP#President/NNP#Obama/NR#leading/VBG#Republican/NNP#candidate/NN#Romney/NR#opinion/NN#polling/NN

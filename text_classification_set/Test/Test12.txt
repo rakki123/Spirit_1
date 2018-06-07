@@ -1,0 +1,1 @@
+House/NNP#Speaker/NNP#Paul Ryan/NR#appears/VBZ#severing/VBG#ties/NNS#running/VBG#mate/NN#Mitt/NR#Romney/NR#set/NN#motion/NN#path/NN#unity/NN#Donald Trump/NR#presumptive/NN#Republican/NNP#nominee/NN

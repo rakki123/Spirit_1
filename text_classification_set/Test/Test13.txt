@@ -1,0 +1,1 @@
+Republican/NNP#Donald Trump/NR#elected/VBN#US/NNP#president/NN#defeating/VBG#Democrat/NNP#Hillary Clinton/NR

@@ -1,0 +1,6 @@
+NR,VV,NN,VV,NR --> Intra-inner
+NR,NN,VV,NN,PU,VV,NN,NR --> Inter-inner
+NR,VV,NR,VV,NN --> Intra-surrounding
+NR,VV,NN,PU,CC,NR,VV,VV --> Inter-surrounding
+NR,CC,NR,P,NN,VV --> Intra-outer
+NR,DEC,NN,PU,NR,VV,VV --> Inter-outer

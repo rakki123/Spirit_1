@@ -1,0 +1,1 @@
+Vice/NNP#President/NNP#Joe Biden/NR#Republican/NNP#vice/NN#candidate/NN#Paul Ryan/NR

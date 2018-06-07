@@ -1,0 +1,1 @@
+President/NNP#Obama/NR#debates/NNS#Republican/NNP#candidate/NN#Romney/NR#October/NNP

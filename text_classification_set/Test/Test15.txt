@@ -1,0 +1,1 @@
+June/NNP#Washington/NNP#Post/NNP#report/NN#included/VBD#Senators/NNS#Bob/NNP#Corker/NN#Tennessee/NNP#Richard/NNP#Burr/NNP#North/NNP#Carolina/NNP#Tom Cotton/NR#Arkansas/NNP#Joni/NNP#Ernst/NR#Iowa/NNP#Indiana/NNP#Governor/NNP#Mike Pence/NR#individuals/NNS#considered/VBN#ticket/NN
