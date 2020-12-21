@@ -1,3 +1,3 @@
-function myMethod(int x,int y) {
+function myMethod(x,y) {
 	        return x+y ;
 }
