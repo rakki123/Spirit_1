@@ -1,3 +1,3 @@
-function myMethod(x, y) {
-	        return x+y;
+function myMethod() {
+	        return "HELLO";
 }
