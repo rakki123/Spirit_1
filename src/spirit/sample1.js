@@ -1,0 +1,3 @@
+function myMethod() {
+	        return "HELLO";
+}
